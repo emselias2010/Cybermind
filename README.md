@@ -9,11 +9,11 @@ Schulzugang; Abos werden über PayPal abgewickelt.
 
 | Startseite | Dashboard |
 |------------|-----------|
-| ![Startseite](screenshots/01-startseite.jpg) | ![Dashboard](screenshots/02-dashboard.jpg) |
+| ![Startseite](screenshots/Screenshot%202026-10-12%20083236.png) | ![Dashboard](screenshots/Screenshot%202026-10-12%20084157.png) |
 
 | Kursauswahl | Kursansicht |
 |-------------|-------------|
-| ![Kursauswahl](screenshots/03-kursauswahl.jpg) | ![Kurs](screenshots/04-kurs.jpg) |
+| ![Kursauswahl](screenshots/Screenshot%202026-10-12%20083414.png) | ![Kurs](screenshots/Screenshot%202026-10-12%20084240.png) |
 
 ## Kurse
 
